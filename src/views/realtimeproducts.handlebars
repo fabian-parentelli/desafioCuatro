@@ -1,0 +1,22 @@
+<div class="external">
+    <h1>Agregar productos</h1>
+    <form id="fomProduc">
+        <input name="title" placeholder="title">
+        <input name="description" placeholder="description">
+        <input name="code" placeholder="code">
+        <input name="price" placeholder="price">
+        <div>
+            <label>True</label>
+            <input type="radio" name="status" value="true" checked>  
+            <label>False</label>
+            <input type="radio" name="status" value="false">
+        </div>
+        <input name="stock" placeholder="stock">
+        <input name="category" placeholder="category">
+        <button>Agregar</button>
+    </form>
+
+    <div id="container"></div>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/index.js"></script>

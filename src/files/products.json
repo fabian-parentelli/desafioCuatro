@@ -1,0 +1,75 @@
+[
+	{
+		"title": "Calculadora",
+		"description": "chica, solar",
+		"code": "ab5258",
+		"price": 200,
+		"stock": 20,
+		"category": "escolar",
+		"thumbnails": [
+			"http//:imagen-calculadora"
+		],
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "Hojas A4",
+		"description": "700gr",
+		"code": "abc124",
+		"price": 100,
+		"stock": 20,
+		"category": "escolar",
+		"thumbnails": [
+			"http//:imagen-hoja"
+		],
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "goma",
+		"description": "chica, solar",
+		"code": "ab5258",
+		"price": 200,
+		"stock": 20,
+		"category": "escolar",
+		"thumbnails": "img/calculadora",
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "corrector-Rojo",
+		"description": "colores",
+		"code": "9952dfsds",
+		"price": "100",
+		"stock": 20,
+		"category": "escolar",
+		"thumbnails": "http//:imagen-lapicera",
+		"id": 6
+	},
+	{
+		"title": "alfajor",
+		"description": "grande",
+		"code": "12345",
+		"price": 100,
+		"stock": 100,
+		"category": "kioko",
+		"thumbnails": [
+			[]
+		],
+		"status": "true",
+		"id": 7
+	},
+	{
+		"title": "comida gato",
+		"description": "grande",
+		"code": "996655",
+		"price": 5200,
+		"stock": 100,
+		"category": "mascotas",
+		"thumbnails": [
+			[]
+		],
+		"status": "true",
+		"id": 8
+	}
+]
